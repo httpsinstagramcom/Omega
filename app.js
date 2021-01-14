@@ -1,7 +1,10 @@
 // Initialize Firebase
 
 
-///Edit Under This only
+///Edit Under This on
+
+
+
 
 
 
@@ -12,11 +15,13 @@ const firebaseConfig = {
   projectId: "nobi-d236c",
   storageBucket: "nobi-d236c.appspot.com",
   messagingSenderId: "976015869391",
-  appId: "1:976015869391:web:40724addf63c7df1b4beba",
+  appId: "1:97601586931:web:40724addf63c7df1b4beba",
   measurementId: "G-R74Y3NSNNQ"
 };
 
      
+
+
  
 ////Do Not Edit Below This
 
